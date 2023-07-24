@@ -14,6 +14,6 @@ public class Ficha10Exerc5{
 			if(i % 2 == 0){
 				System.out.println(palavras[i]);
 			}
-		}
+		} 
 	}
 }
